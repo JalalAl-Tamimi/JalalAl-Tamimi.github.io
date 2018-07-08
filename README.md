@@ -2,7 +2,7 @@ This repo contains notebooks I have created to show specific techniques I used i
 
 # [Rating experiments](https://jalalal-tamimi.github.io/R-Rating-data/)
 
-This [notebook](https://jalalal-tamimi.github.io/R-Rating-data/Rating-VQ-Nas-Phonetica.nb.html) contains data and analyses used for a rating experiment (see, Khattab, G., Al-Tamimi, J., and Al-Siraih, W., (in press). "Nasalisation in the production of Iraqi Arabic pharyngeals". Phonetica)
+This [notebook](https://jalalal-tamimi.github.io/R-Rating-data/Rating-VQ-Nas-Phonetica.nb.html) contains data and analyses used for a rating experiment (see, Khattab, G., Al-Tamimi, J., and Al-Siraih, W., (2018). "Nasalisation in the production of Iraqi Arabic pharyngeals". Phonetica, https://doi.org/10.1159/000487806)
 
 # [GAMMs](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
 
