@@ -6,8 +6,8 @@ These notebooks present the analyses performed for the article "Al-Tamimi, J. an
 
 Two types of analyses were performed:
 
-1. Linear Mixed Effects Modelling as a confirmatory analyses [see notebook](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/Voicing and Gemination - Mixed Effects Modelling.nb.html)
-2. Random Forests by Conditional Inference Trees as a classification technique [see notebook](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/Voicing and Gemination - Random Forests.nb.html)
+1. Linear Mixed Effects Modelling as a confirmatory analyses [see notebook](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/Voicing%20and%20Gemination%20-%20Mixed%20Effects%20Modelling.nb.html)
+2. Random Forests by Conditional Inference Trees as a classification technique [see notebook](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/Voicing%20and%20Gemination%20-%20Random%20Forests.nb.html)
 
 
 # [Rating experiments](https://jalalal-tamimi.github.io/R-Rating-data/)
