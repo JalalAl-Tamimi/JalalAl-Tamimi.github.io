@@ -25,7 +25,9 @@ This [notebook](https://jalalal-tamimi.github.io/R-Rating-data/Rating-VQ-Nas-Pho
 
 To cite the analyses in the notebook, use: 
 
-[![DOI](https://zenodo.org/badge/142136972.svg)](https://zenodo.org/badge/latestdoi/142136972)
+
+[![DOI](https://zenodo.org/badge/122322814.svg)](https://zenodo.org/badge/latestdoi/122322814)
+
 
 
 # [GAMMs](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
