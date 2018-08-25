@@ -14,17 +14,36 @@ The datasets can be accessed here:
 1. For [Linear Mixed Effects Modelling](https://github.com/JalalAl-Tamimi/R-Voicing-Gemination-VOT/blob/master/resultsGemination.csv)
 2. For [Random Forests by Conditional Inference Trees](https://github.com/JalalAl-Tamimi/R-Voicing-Gemination-VOT/blob/master/ResultsFullOriginalData.csv)
 
+To cite the analyses in the notebooks, use: 
+
+[![DOI](https://zenodo.org/badge/142136972.svg)](https://zenodo.org/badge/latestdoi/142136972)
+
+
 # [Rating experiments](https://jalalal-tamimi.github.io/R-Rating-data/)
 
 This [notebook](https://jalalal-tamimi.github.io/R-Rating-data/Rating-VQ-Nas-Phonetica.nb.html) contains data and analyses used for a rating experiment (see, Khattab, G., Al-Tamimi, J., and Al-Siraih, W., (2018). "Nasalisation in the production of Iraqi Arabic pharyngeals". Phonetica, https://doi.org/10.1159/000487806)
+
+To cite the analyses in the notebook, use: 
+
+[![DOI](https://zenodo.org/badge/142136972.svg)](https://zenodo.org/badge/latestdoi/142136972)
+
 
 # [GAMMs](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
 
 This [notebook](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/GAMMsLabPhon.nb.html) contains data and analyses used in a workshop I have presented at LabPhon 2018 on GAMMs and their use on Ultrasound data
 
+To cite the analyses in the notebook, use: 
+
+[![DOI](https://zenodo.org/badge/136336735.svg)](https://zenodo.org/badge/latestdoi/136336735)
+
+
 # [Techniques in data analyses](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/)
 
 This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 7-8 June 2018).
 
+
+To cite the analyses in the notebook, use: 
+
+[![DOI](https://zenodo.org/badge/136751994.svg)](https://zenodo.org/badge/latestdoi/136751994)
 
 
