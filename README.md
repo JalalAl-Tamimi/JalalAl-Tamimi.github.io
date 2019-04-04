@@ -11,7 +11,7 @@ The first session of the workshop is on the 20th of November 2018, at 1-3 pm, in
 
 # [Interspeech 2019](https://jalalal-tamimi.github.io/InterSpeech-2019/)
 
-This [notebook]{https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in "Al-Tamimi (under review). Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants. Interspeech 2019, Graz, Austria"
+This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in "Al-Tamimi (under review). Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants. Interspeech 2019, Graz, Austria"
 
 # [Voicing and Gemination - VOT](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/)
 
