@@ -1,17 +1,14 @@
 This repo contains notebooks I have created to show specific techniques I used in research and/or teaching.
 
-# [Introduction to R](https://jalalal-tamimi.github.io/R-Introduction-to-R/)
-
-This [notebook](https://jalalal-tamimi.github.io/R-Introduction-to-R/Introduction_to_R.nb.html) forms the essential part of the workshop **Introduction to R**. This workshop is run as part of the [adventures in R meetup](https://www.meetup.com/Adventures-in-R-Meetup/) and is supported by the R Consortium. 
-
-### Workshop date, time and location:
-The first session of the workshop is on the 20th of November 2018, at 1-3 pm, in room 1.71 KGVI at Newcastle University. The second is on the 27th of November 2018, at 1-3 pm, in room 2.19 KGVI at Newcastle University.
-
-**Participants are encouraged to bring in their laptops with the latest version of R and R studio installed.**
 
 # [Interspeech 2019](https://jalalal-tamimi.github.io/InterSpeech-2019/)
 
 This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in "Al-Tamimi (under review). Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants. Interspeech 2019, Graz, Austria"
+
+# [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
+
+This repo contains two notebooks that provide the full analysis of the article: **Heyne, M., Derrick, D., and Al-Tamimi, J. (under review). *"Native language influence on brass instrument performance"*. Frontiers Research Topic: Models and Theories of Speech Production. Ed. Adamantios Gafos & Pascal van Lieshout.**
+Notebooks will be available soon
 
 # [Voicing and Gemination - VOT](https://jalalal-tamimi.github.io/R-Voicing-Gemination-VOT/)
 
@@ -28,17 +25,25 @@ The datasets can be accessed here:
 2. For [Random Forests by Conditional Inference Trees](https://github.com/JalalAl-Tamimi/R-Voicing-Gemination-VOT/blob/master/ResultsFullOriginalData.csv)
 
 
-
 # [Rating experiments](https://jalalal-tamimi.github.io/R-Rating-data/)
 
 This [notebook](https://jalalal-tamimi.github.io/R-Rating-data/Rating-VQ-Nas-Phonetica.nb.html) contains data and analyses used for a rating experiment (see, Khattab, G., Al-Tamimi, J., and Al-Siraih, W., (2018). "Nasalisation in the production of Iraqi Arabic pharyngeals". Phonetica, https://doi.org/10.1159/000487806)
-
 
 
 # [GAMMs](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
 
 This [notebook](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/GAMMsLabPhon.nb.html) contains data and analyses used in a workshop I have presented at LabPhon 2018 on GAMMs and their use on Ultrasound data
 
+# R training
+
+# [Introduction to R](https://jalalal-tamimi.github.io/R-Introduction-to-R/)
+
+This [notebook](https://jalalal-tamimi.github.io/R-Introduction-to-R/Introduction_to_R.nb.html) forms the essential part of the workshop **Introduction to R**. This workshop is run as part of the [adventures in R meetup](https://www.meetup.com/Adventures-in-R-Meetup/) and is supported by the R Consortium. 
+
+### Workshop date, time and location:
+The first session of the workshop is on the 20th of November 2018, at 1-3 pm, in room 1.71 KGVI at Newcastle University. The second is on the 27th of November 2018, at 1-3 pm, in room 2.19 KGVI at Newcastle University.
+
+**Participants are encouraged to bring in their laptops with the latest version of R and R studio installed.**
 
 # [Techniques in data analyses](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/)
 
