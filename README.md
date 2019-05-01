@@ -3,7 +3,7 @@ This repo contains notebooks I have created to show specific techniques I used i
 
 # [Interspeech 2019](https://jalalal-tamimi.github.io/InterSpeech-2019/)
 
-This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in "Al-Tamimi (under review). Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants. Interspeech 2019, Graz, Austria"
+This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in **"Al-Tamimi (under review). *Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants*. Interspeech 2019, Graz, Austria"**
 
 # [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
