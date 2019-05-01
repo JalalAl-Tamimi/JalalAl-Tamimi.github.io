@@ -7,7 +7,7 @@ This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech201
 
 # [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
-This repo contains two notebooks that provide the full analysis of the article: **Heyne, M., Derrick, D., and Al-Tamimi, J. (under review). *"Native language influence on brass instrument performance"*. Frontiers Research Topic: Models and Theories of Speech Production. Ed. Adamantios Gafos & Pascal van Lieshout.**
+This repo contains two notebooks that provide the full analysis of the article: **Heyne, M., Derrick, D., and Al-Tamimi, J. (under review). *"Native language influence on brass instrument performance: An application of generalized additive mixed models (GAMMs) to midsagittal ultrasound images of the tongue"*. Frontiers Research Topic: Models and Theories of Speech Production. Ed. Adamantios Gafos & Pascal van Lieshout.**
 
 The following are the notebooks and csv files associated with the submission:
 
