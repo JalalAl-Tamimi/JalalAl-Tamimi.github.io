@@ -1,10 +1,5 @@
 This repo contains notebooks I have created to show specific techniques I used in research and/or teaching.
 
-
-# [Interspeech 2019](https://jalalal-tamimi.github.io/InterSpeech-2019/)
-
-This [notebook](https://jalalal-tamimi.github.io/InterSpeech-2019/InterSpeech2019.nb.html) describes the analyses presented in **"Al-Tamimi (under review). *Acoustic correlates of an epilaryngeal constriction in Levantine Arabic Guttural consonants*. Interspeech 2019, Graz, Austria"**
-
 # [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
 This repo contains two notebooks that provide the full analysis of the article: **Heyne, M., Derrick, D., and Al-Tamimi, J. (under review). *"Native language influence on brass instrument performance: An application of generalized additive mixed models (GAMMs) to midsagittal ultrasound images of the tongue"*. Frontiers Research Topic: Models and Theories of Speech Production. Ed. Adamantios Gafos & Pascal van Lieshout.**
