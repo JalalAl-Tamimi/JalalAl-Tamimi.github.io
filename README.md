@@ -69,6 +69,12 @@ The first session of the workshop is on the 20th of November 2018, at 1-3 pm, in
 
 # [Techniques in data analyses](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/)
 
-This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 7-8 June 2018).
+## Session 25-26 June 2019
+
+This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData062019.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 25-26 June 2019).
+
+## Session 7-8 June 2018
+
+This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData062019.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 7-8 June 2018).
 
 
