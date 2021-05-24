@@ -32,4 +32,6 @@ The link above presents the essential part of the workshop **Introduction to R**
 
 The link above provides links to various sessions I ran as part of the HASS faculty R training workshop at Newcastle University. This forms part of the "Adventures in R" group.  
 
+## [Introduction to Random Forests](https://jalalal-tamimi.github.io/Intro-Random-Forests/)
 
+The link above presents material used for the workshop: *introduction to Random Forest* delivered to the group: *[Sounds of Language and Speech: Aarhus University's phonetics and phonology (and more) research group](https://soundsoflanguageandspeech.wordpress.com/)*, on 16th June 2021 
