@@ -2,10 +2,6 @@ This repo contains notebooks I have created to show specific techniques I used i
 
 # Research
 
-## [Prosody in Schizophrenia](https://jalalal-tamimi.github.io/Prosody_Schizophrenia/)
-
-The link above contains the dataset and notebooks providing the full analysis of the article: **Al-Tamimi, J., Jones, W. and Hinzen, W. (submitted): "Automatic acoustic profiling of prosody in Schizophrenia, *npj schizophrenia***. 
-
 
 ## [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
