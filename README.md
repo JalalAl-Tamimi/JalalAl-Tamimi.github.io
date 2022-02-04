@@ -24,6 +24,10 @@ The link above contains the notebook providing the analysis of of Ultrasound dat
 
 # R training
 
+## [R-training full](https://jalalal-tamimi.github.io/R-Trainning/)
+
+The link above presents the full material used during my teaching at undergraduate and master's degree at Université de Paris. The various notebooks build in difficulty, going from basics in R, to the Tidyverse, to visualisations, to statistics. A more advanced session is included (going from linear, to binary logistic regression, to cumulative logit regression for rating data, to linear mixed-effects modelling). Extra material is included with rating data (using cumulative logit regression), word clouds and network analysis.
+
 ## [Introduction to R](https://jalalal-tamimi.github.io/R-Introduction-to-R/)
 
 The link above presents the essential part of the workshop **Introduction to R**. This workshop was run as part of the "adventures in R meetup" and was supported by the R Consortium. The training was run in 2018.
