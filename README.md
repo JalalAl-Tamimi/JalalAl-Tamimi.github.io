@@ -2,17 +2,17 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
-## (Voicing detection)[https://jalalal-tamimi.github.io/Praat-Voicing-detection/]
+## [Voicing detection](https://jalalal-tamimi.github.io/Praat-Voicing-detection/)
 
 This script allows you detect voicing using the two-passe methods for f0 estimation and intensity.
 
 
-## (F0 estimation)[https://jalalal-tamimi.github.io/Praat-f0-Accurate-Estimation/]
+## [F0 estimation](https://jalalal-tamimi.github.io/Praat-f0-Accurate-Estimation/)
 
 This script allows you to estimate f0 accurately using the two-pass method, with and without smoothing.
 
 
-## (Estimation of frame positions)[https://jalalal-tamimi.github.io/Praat-Measurement-points/]
+## [Estimation of frame positions](https://jalalal-tamimi.github.io/Praat-Measurement-points/)
 
 This script allows you to estimate the accurate positions of frames to obtain reliable results for formant, pitch and intensity results.
 
