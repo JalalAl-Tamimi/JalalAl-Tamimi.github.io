@@ -1,7 +1,23 @@
-This repo contains notebooks I have created to show specific techniques I used in research and/or teaching.
+This repo contains various Praat scripts, and R notebooks used in my own research and/or teaching.
 
-# Research
+# Research (Praat scripts)
 
+## (Voicing detection)[https://github.com/JalalAl-Tamimi/Praat-Voicing-detection]
+
+This script allows you detect voicing using the two-passe methods for f0 estimation and intensity.
+
+
+## (Voicing detection)[https://github.com/JalalAl-Tamimi/Praat-f0-Accurate-Estimation]
+
+This script allows you to estimate f0 accurately using the two-pass method, with and without smoothing.
+
+
+## (Estimation of frame positions)[https://github.com/JalalAl-Tamimi/Praat-Measurement-points]
+
+This script allows you to estimate the accurate positions of frames to obtain reliable results for formant, pitch and intensity results.
+
+
+# Research (R notebooks)
 
 ## [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
@@ -22,7 +38,7 @@ The link above contains the notebook providing the analysis of the rating experi
 
 The link above contains the notebook providing the analysis of of Ultrasound data using Generalised Additive Mixed-effects Modelling presented in a workshop I have presented at LabPhon 2018. 
 
-# R training
+# R training (R notebooks)
 
 ## [R-training full](https://jalalal-tamimi.github.io/R-Training/)
 
