@@ -2,6 +2,10 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
+## [Silence/Speech Detection](https://jalalal-tamimi.github.io/Praat-Silence-Detection/)
+
+This script adapts the default settings in Praat to be user-dependent. It provides computations of f0 and intensity and adapts the silence threshold to the speaker's range.
+
 ## [Voicing detection](https://jalalal-tamimi.github.io/Praat-Voicing-detection/)
 
 This script allows you detect voicing using the two-passe methods for f0 estimation and intensity.
