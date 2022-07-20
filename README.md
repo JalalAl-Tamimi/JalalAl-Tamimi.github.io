@@ -2,6 +2,10 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
+## [Voice Quality measures](https://jalalal-tamimi.github.io/Praat-VQ-Measurements/)
+
+This script provides various VQ measurements as averages for an interval (word level in the example). It provides mesurements for Jitter, Shimmer, Harmonics-to-Noise-Ratio (various ranges), CPP, Hammarberg Index, Energy components (various ranges), spectral slope and tilt, band energy differences and Glottal-to- Noise-Excitation (at 3500 and 4500 Hz). Most of these measures are adapted from the Acoustic Breahtiness Index.
+
 ## [Silence/Speech Detection](https://jalalal-tamimi.github.io/Praat-Silence-Detection/)
 
 This script adapts the default settings in Praat to be user-dependent. It provides computations of f0 and intensity and adapts the silence threshold to the speaker's range.
