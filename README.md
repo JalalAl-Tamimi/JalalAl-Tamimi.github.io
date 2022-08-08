@@ -42,7 +42,7 @@ The link above contains the notebooks providing the full analysis of the article
 The link above contains the notebook providing the analysis of the rating experiment with Cumulative Logit Mixed-effects Modelling, presented in the article: **Khattab, G., Al-Tamimi, J., and Al-Siraih, W., (2018). "Nasalisation in the production of Iraqi Arabic pharyngeals". Phonetica, https://doi.org/10.1159/000487806**
 
 
-## [GAMMs](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
+## [GAMMs LabPhon 2018](https://jalalal-tamimi.github.io/R-GAMM-LabPhon18/)
 
 The link above contains the notebook providing the analysis of of Ultrasound data using Generalised Additive Mixed-effects Modelling presented in a workshop I have presented at LabPhon 2018. 
 
