@@ -2,6 +2,10 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
+## [Pharyngealisation - Al-Tamimi (2017)](https://jalalal-tamimi.github.io/Praat-Pharyngealisation)
+
+This Praat script allows to obtain the various acoustic metrics reported in Al-Tamimi (2017), including the normalised harmonic differences as used to estimate spectral tilt. The repo contains the actual script, two sound files and TextGrids, the results file and two folder containing spectra and images to be used as a first step for manual checking
+
 ## [Voice Quality measures](https://jalalal-tamimi.github.io/Praat-VQ-Measurements/)
 
 This script provides various VQ measurements as averages for an interval (word level in the example). It provides mesurements for Jitter, Shimmer, Harmonics-to-Noise-Ratio (various ranges), CPP, Hammarberg Index, Energy components (various ranges), spectral slope and tilt, band energy differences and Glottal-to- Noise-Excitation (at 3500 and 4500 Hz). Most of these measures are adapted from the Acoustic Breahtiness Index.
