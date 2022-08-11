@@ -2,7 +2,7 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
-## [Spectral tilt - Al-Tamimi (2017)](https://jalalal-tamimi.github.io/Praat-Spectral-Tilt)
+## [Spectral tilt](https://jalalal-tamimi.github.io/Praat-Spectral-Tilt)
 
 This Praat script allows to obtain the various acoustic metrics reported in Al-Tamimi (2017), including the normalised harmonic differences as used to estimate spectral tilt. The repo contains the actual script, two sound files and TextGrids, the results file and two folder containing spectra and images to be used as a first step for manual checking
 
@@ -30,6 +30,11 @@ This script allows you to estimate the accurate positions of frames to obtain re
 
 
 # Research (R notebooks)
+
+## [SSANOVAs-vs-GAMs-vs-GAMMs-UTI](https://jalalal-tamimi.github.io/R-SSANOVAs-vs-GAMs-vs-GAMMs-UTI/)
+
+The link above contains the supplementary material used in the paper “**Derrick, D., Al-Tamimi, J. & Heyne, M. (Submitted). Accounting for within and between-subject variation using generalized additive mixed models on ultrasound tongue contours. The Journal of the Acoustical Society of America**”. We compare the model fit for SSANOVAs, fixed-effects GAMs and mixed effects GAMMs, using raw and normalized UTI data (using three normalization techniques).
+
 
 ## [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
