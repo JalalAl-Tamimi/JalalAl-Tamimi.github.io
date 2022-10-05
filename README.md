@@ -2,6 +2,9 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 
 # Research (Praat scripts)
 
+## [Spectral analyses for fricatives and stops](https://jalalal-tamimi.github.io/Praat-Spectral-Analyses-fricatives-stops/)
+This Praat script allows the user to obtain various spectral measures from fricatives and stops, similar to those reported in Al-Tamimi and Khattab (2015) on fricatives, and extends these to other measures and to stops. The script works for only on the sound files uploaded online, but can be modified by the user for any other fricatives/stops (changes required in lines 132 and 260). 
+
 ## [Spectral tilt](https://jalalal-tamimi.github.io/Praat-Spectral-Tilt)
 
 This Praat script allows to obtain the various acoustic metrics reported in Al-Tamimi (2017), including the normalised harmonic differences as used to estimate spectral tilt. The repo contains the actual script, two sound files and TextGrids, the results file and two folder containing spectra and images to be used as a first step for manual checking
