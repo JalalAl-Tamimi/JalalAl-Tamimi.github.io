@@ -3,7 +3,7 @@ This repo contains various Praat scripts, and R notebooks used in my own researc
 # Research (Praat scripts)
 
 ## [Spectral analyses for fricatives and stops](https://jalalal-tamimi.github.io/Praat-Spectral-Analyses-fricatives-stops/)
-This Praat script allows the user to obtain various spectral measures from fricatives and stops, similar to those reported in Al-Tamimi and Khattab (2015) on fricatives, and extends these to other measures and to stops. The script works for only on the sound files uploaded online, but can be modified by the user for any other fricatives/stops (changes required in lines 132 and 260). 
+This Praat script allows the user to obtain various spectral measures from fricatives and stops, similar to those reported in Al-Tamimi and Khattab (2015) on fricatives, and extends these to other measures and to stops. The script works for only on the sound files uploaded online, but can be modified by the user for any other fricatives/stops (changes required in lines 132 and 260). This script uses cepstral smoothing for fricatives instead of time-averaging as used in Al-Tamimi and Khattab (2015), following the literature that an appropriate spectral estimation (and with smoothing) provides the same linguistic information to e.g., multitaper spectra. 
 
 ## [Spectral tilt](https://jalalal-tamimi.github.io/Praat-Spectral-Tilt)
 
