@@ -34,10 +34,6 @@ This script allows you to estimate the accurate positions of frames to obtain re
 
 # Research (R notebooks)
 
-## [SSANOVAs-vs-GAMs-vs-GAMMs-UTI](https://jalalal-tamimi.github.io/R-SSANOVAs-vs-GAMs-vs-GAMMs-UTI/)
-
-The link above contains the supplementary material used in the paper “**Derrick, D., Al-Tamimi, J. & Heyne, M. (Submitted). Accounting for within and between-subject variation using generalized additive mixed models on ultrasound tongue contours. The Journal of the Acoustical Society of America**”. We compare the model fit for SSANOVAs, fixed-effects GAMs and mixed effects GAMMs, using raw and normalized UTI data (using three normalization techniques).
-
 
 ## [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
