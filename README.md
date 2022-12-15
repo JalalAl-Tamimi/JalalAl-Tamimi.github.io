@@ -44,6 +44,9 @@ The link above contains the notebooks providing the full analysis of the article
 
 The link above contains the notebooks providing the full analysis of the article: **Al-Tamimi, J. and Khattab, G., (2018). *Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate stops*. Invited manuscript for the special issue of Journal of Phonetics, "Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages" (eds., T. Cho, G. Docherty & D. Whalen)." Vol: 71, pp. 306-325. https://doi.org/10.1016/j.wocn.2018.09.010**
 
+## [Estimating number of trees required for running Random Forests](https://jalalal-tamimi.github.io/R-Estimating-Number-Of-Trees-RF/)
+
+This notebook and R script allows to estimate number of trees required to run Random Forests on simulated data (with various levels of correlations). It uses the package `party` to grow Random Forests using the Conditional Inference Trees framework. It assess the best performing Random Forests with the optimal number of trees via an AUC based comparison. 
 
 ## [Rating experiments](https://jalalal-tamimi.github.io/R-Rating-data/)
 
