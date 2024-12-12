@@ -34,6 +34,9 @@ This script allows you to estimate the accurate positions of frames to obtain re
 
 # Research (R notebooks)
 
+## [Inspect Random Effects](https://jalalal-tamimi.github.io/R-Inspect-Random-Effects/)
+
+The link above contains material for the tutorial: Exploring Random Effects: What Do Participants and Items Tell us Beyond the Fixed Effects? delivered on the 13th December 2024 to the Experimental Linguistics Research Group, with the Laboratoire de Linguistique Formelle (LLF) at the Université Paris Cité.
 
 ## [GAMM Trombone 2019](https://jalalal-tamimi.github.io/GAMM-Trombone-2019/)
 
