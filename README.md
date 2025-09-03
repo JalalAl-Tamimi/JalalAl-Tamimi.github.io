@@ -72,9 +72,6 @@ You can use this reference for citation:
 
 Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/
 
-You can use this reference for citation:
-
-Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/
 
 ## [R-training full](https://jalalal-tamimi.github.io/R-Training/)
 
