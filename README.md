@@ -1,4 +1,4 @@
-This repo contains various open source documents used in my own research and/or teaching. These are related to [Praat scripts used in my research](https://github.com/JalalAl-Tamimi/JalalAl-Tamimi.github.io/blob/master/README.md#research-r-notebooks)
+This repo contains various open source documents used in my own research and/or teaching. These are related to [Praat scripts used in my research](https://JalalAl-Tamimi.github.io/research-r-notebooks)
 
 # Research (Praat scripts)
 
