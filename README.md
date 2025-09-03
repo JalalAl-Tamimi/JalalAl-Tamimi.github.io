@@ -1,4 +1,4 @@
-This repo contains various Praat scripts, and R notebooks used in my own research and/or teaching.
+This repo contains various open source documents (R notebooks, and Praat scripts) used in my own research and/or teaching.
 
 # Research (Praat scripts)
 
@@ -61,6 +61,20 @@ The link above contains the notebook providing the analysis of the rating experi
 The link above contains the notebook providing the analysis of of Ultrasound data using Generalised Additive Mixed-effects Modelling presented in a workshop I have presented at LabPhon 2018. 
 
 # R training (R notebooks)
+
+## [Bookdown **Statistics for Linguists using R - Quantitative and qualitative approaches**](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/)
+
+The link above contains book **Statistics for Linguists using R - Quantitative and qualitative approaches**. published using a bookdown format.
+The book is accessible from:
+[https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/). 
+
+You can use this reference for citation:
+
+Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/
+
+You can use this reference for citation:
+
+Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/
 
 ## [R-training full](https://jalalal-tamimi.github.io/R-Training/)
 
