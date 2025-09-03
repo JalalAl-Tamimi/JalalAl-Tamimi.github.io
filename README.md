@@ -1,4 +1,4 @@
-This repo contains various open source documents used in my own research and/or teaching. These are related to [Praat scripts used in my research](https://JalalAl-Tamimi.github.io/research-r-notebooks)
+This repo contains various open source documents used in my own research and/or teaching. These are related to Praat scripts and R Notebooks used in my research in addition to R Notebooks used in teaching and in various workshops.
 
 # Research (Praat scripts)
 
