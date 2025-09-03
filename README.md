@@ -62,7 +62,7 @@ The link above contains the notebook providing the analysis of of Ultrasound dat
 
 # R training (R notebooks)
 
-## [Bookdown **Statistics for Linguists using R - Quantitative and qualitative approaches**](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/)
+## [**Statistics for Linguists using R - Quantitative and qualitative approaches**](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/)
 
 The link above contains book **Statistics for Linguists using R - Quantitative and qualitative approaches**. published using a bookdown format.
 The book is accessible from:
