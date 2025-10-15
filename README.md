@@ -66,12 +66,12 @@ The link above contains the notebook providing the analysis of of Ultrasound dat
 
 The link above contains book **Statistics for Linguists using R - Quantitative and qualitative approaches**. published using a bookdown format.
 The book is accessible from:
-[https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/). Doi: [https://doi.org/10.5281/zenodo.17249197](10.5281/zenodo.17249197)
-[![DOI](https://zenodo.org/badge/970753526.svg)](https://doi.org/10.5281/zenodo.17249197)
+[https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/). 
 
 You can use this reference for citation:
 
-Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/
+Al-Tamimi, J. (2025). *Statistics for Linguists using R - Quantitative and qualitative approaches*. Bookdown. [https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/](https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/) Doi: [https://doi.org/10.5281/zenodo.17249197](10.5281/zenodo.17249197)
+[![DOI](https://zenodo.org/badge/970753526.svg)](https://doi.org/10.5281/zenodo.17249197)
 
 
 ## [R-training full](https://jalalal-tamimi.github.io/R-Training/)
